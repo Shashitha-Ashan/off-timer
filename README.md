@@ -14,7 +14,8 @@ Once the configured inactivity conditions are satisfied, the app communicates wi
 
 ## Demo
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_LINK
+https://github.com/user-attachments/assets/b2d6ed3f-175e-4c6a-9329-fd56b7e5476f
+
 
 ---
 
